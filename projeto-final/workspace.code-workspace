@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "OneDrive/Área de Trabalho/eureka/projeto-eureka"
+		},
+		{
+			"path": "OneDrive/Área de Trabalho/config-server/configserver"
+		},
+		{
+			"path": "OneDrive/Área de Trabalho/gateway/projeto-gateway"
+		},
+		{
+			"path": "OneDrive/Área de Trabalho/vendas/projeto-vendas"
+		},
+		{
+			"path": "OneDrive/Área de Trabalho/loja/projeto-produto"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable"
+	}
+}
